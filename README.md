@@ -28,3 +28,5 @@ This lab demonstrates how to configure a resilient file sharing solution using:
 6. From a client, access `\\corp.lab\Shares` and validate access and failover.
 
 This lab shows Windows storage administration and high-availability design using native tools.
+## Author
+## Eyouel Melaku ## 
